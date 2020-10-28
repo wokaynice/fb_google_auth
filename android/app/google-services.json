@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914493990601",
+    "firebase_url": "https://fb--auth-72372.firebaseio.com",
+    "project_id": "fb--auth-72372",
+    "storage_bucket": "fb--auth-72372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914493990601:android:636ebb485ca054a3d6cf18",
+        "android_client_info": {
+          "package_name": "my.com.sdcreative.fb_google_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914493990601-pvt76a2u062jspljed6m302l2o5h84ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.sdcreative.fb_google_auth",
+            "certificate_hash": "b81c42e8146a7012d7ab46131fb99c51aa5708f7"
+          }
+        },
+        {
+          "client_id": "914493990601-esjvl34m2374fafg8i3trhpmigmo22nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7aMJMAWsvyCND2Sp2T75tOoJUB7_OJ2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914493990601-esjvl34m2374fafg8i3trhpmigmo22nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
